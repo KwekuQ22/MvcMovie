@@ -41,5 +41,10 @@ Restored C:\Users\nanak\source\repos\MvcMovie\MvcMovie.csproj (in 1.42 sec).
 ========== Rebuild completed at 8:26 AM and took 17.472 seconds ==========
 
 0827 Run and test the app
-
+0845 Created a Git Repository
+0932 Added the Release Date display name
+0935 Seeded the database
+0940 Added the seed initializer
+0945 Tested the app
+1020 tried to add the ratings view but i got an sql error so i undid what i did
 
