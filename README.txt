@@ -48,3 +48,15 @@ Restored C:\Users\nanak\source\repos\MvcMovie\MvcMovie.csproj (in 1.42 sec).
 0945 Tested the app
 1020 tried to add the ratings view but i got an sql error so i undid what i did
 
+
+2025-02-05
+0845 Added search but it gave me an error
+0854 Fixed the error by commenting out an index code in MoviesController.cs
+0906 Added the search bar
+0915 Added search by genre
+0930 Added search by genre to the index view
+0938 Tested the app and it works
+1011 Added the Ratings field and tested it
+1029 Added the validation
+1035 Completed all parts
+

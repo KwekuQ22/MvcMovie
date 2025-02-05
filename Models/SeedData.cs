@@ -25,6 +25,7 @@ public static class SeedData
                     Title = "kweku",
                     ReleaseDate = DateTime.Parse("2025-01-01"),
                     Genre = "Action",
+                    Rating = "R",
                     Price = 9.99M
                 },
                 new Movie
@@ -32,6 +33,7 @@ public static class SeedData
                     Title = "Avengers",
                     ReleaseDate = DateTime.Parse("2026-07-28"),
                     Genre = "Sci-Fi",
+                    Rating = "R",
                     Price = 15.99M
                 },
                 new Movie
@@ -39,6 +41,7 @@ public static class SeedData
                     Title = "Power Book VI",
                     ReleaseDate = DateTime.Parse("2027-04-29"),
                     Genre = "Adventure",
+                    Rating = "R",
                     Price = 27.00M
                 },
                 new Movie
@@ -46,6 +49,7 @@ public static class SeedData
                     Title = "Breaking Bad",
                     ReleaseDate = DateTime.Parse("2025-09-22"),
                     Genre = "Thriller",
+                    Rating = "R",
                     Price = 15.30M
                 },
                 new Movie
@@ -53,6 +57,7 @@ public static class SeedData
                     Title = "Madness",
                     ReleaseDate = DateTime.Parse("2028-10-29"),
                     Genre = "Horror",
+                    Rating = "R",
                     Price = 11.99M
                 }
                 );
